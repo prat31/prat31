@@ -40,7 +40,7 @@
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prat31&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prat31&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prat31&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
 </p>
 
